@@ -1,5 +1,5 @@
 # Mvvm-RxSwift
-Building a login mechanism using mvvm and rxswift. 
+Building a login screen using mvvm and rxswift. 
 
 ### Model
 
